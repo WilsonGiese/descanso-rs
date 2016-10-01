@@ -1,0 +1,6 @@
+[package]
+name = "descanso"
+version = "0.1.0"
+authors = ["Wilson Giese <giese.wilson@gmail.com>"]
+
+[dependencies]
